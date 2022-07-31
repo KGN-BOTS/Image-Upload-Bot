@@ -61,15 +61,15 @@ HELP_TEXT = """**Hey, Follow these steps:**
 
 ABOUT_TEXT = """--**About Me**-- 😎
 
-🤖 **Name :** [TGraphRoBot](https://telegram.me/TGraphRoBot)
+🤖 **Name :** [TELE-GRAPH](https://telegram.me/KGN_TELEGRAPH_BOT)
 
-👨‍💻 **Developer :** [Zaute](https://t.me/zautekm)
+👨‍💻 **Developer :** [ZAHID](https://t.me/KGN_OWNER_BOT)
 
 📢 **Channel :** [Jos Projects](https://telegram.me/josprojects)
 
 👥 **Feedback :** [Tap here](https://telegram.me/jospsupportbot)
 
-🌐 **Source :** [👉 Press me](https://github.com/ZauteKm/Image-Upload-Bot)
+🌐 **Source :** [👉 Press me](https://t.me/KGN_OWNER_BOT)
 
 📝 **Language :** [Python3](https://python.org)
 
@@ -198,7 +198,7 @@ async def telegraph_upload(bot, update):
     FSub = await ForceSub(bot, update)
     if FSub == 400:
         return
-    medianame = "./DOWNLOADS/" + "ZauteKm/TGraphRoBot"
+    medianame = "./DOWNLOADS/" + "ZAHID/KGN_TELEGRAPH_BOT"
     text = await update.reply_text(
         text="<code>Downloading to My Server ...</code>",
         disable_web_page_preview=True, reply_to_message_id=update.message_id,
