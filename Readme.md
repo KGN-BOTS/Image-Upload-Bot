@@ -1,11 +1,11 @@
-# Telegraph Image Upload-Bot
+# Telegraph Image Uploader
 
 > A simplest telegram to telegra.ph image uploader bot
 
-<a href="https://telegram.dog/TGraphZKBot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes/yellow?icon=github)](https://github.com/ZauteKm/Image-Upload-Bot)
-[![Ask Me Anything !](https://img.shields.io/badge/🤔%20Ask%20me-anything-1abc9c.svg)](https://telegram.dog/zautebot)
-[![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://t.me/iZaute/5)
+<a href="https://telegram.dog/KGN_TELEGRAPH_BOT"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes/yellow?icon=github)](https://github.com/KGN-BOTS/Image-Upload-Bot)
+[![Ask Me Anything !](https://img.shields.io/badge/🤔%20Ask%20me-anything-1abc9c.svg)](https://telegram.dog/KGN_OWNER_BOT)
+[![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://t.me/KGN_BOTS_SUPPORT)
 
 ## Variables
 
@@ -19,11 +19,11 @@
 ## Deploy to heroku 🗳
 Press the button Deploy to heroku and give the values for the Creds vars. 👇
 
-[![Deploy](https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku)](https://heroku.com/deploy?template=https://github.com/ZauteKm/Image-Upload-Bot/tree/master)
+[![Deploy](https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku)](https://heroku.com/deploy?template=https://github.com/KGN-BOTS/Image-Upload-Bot/tree/master)
 
 ### Deploy in your VPS
 ```sh
-git clone https://github.com/ZauteKm/Image-Upload-Bot
+git clone https://github.com/KGN-BOTS/Image-Upload-Bot
 cd Image-Upload-Bot
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
@@ -34,20 +34,17 @@ Libraries used: => Pyrogram => Telegraph
 
 ## Dev Details 👤:
 <p align="middle">
-<img src="https://telegra.ph/file/f856316b19a05bde4296d.jpg" width="150" height="150"><br>
-<img src="https://badgen.net/badge/Name/ZauteKm/FF33FF?icon=awesome&labelColor=0080FF"></a>
-<img src="https://badgen.net/badge/Skills/python/purple?icon=terminal&labelColor=red"></a>
-<a href="https://telegram.dog/Zautebot"><img src="https://img.shields.io/badge/Telegram-Link-blue.svg?logo=telegram"></a>
-<a href="https://github.com/ZauteKm"><img src="https://badgen.net/badge/Follow%20on%20/GitHub/80FF00?icon=github&labelColor=black"></a>
-<a href="https://youtube.com/c/ZauteKm"><img src="https://img.shields.io/badge/YouTube-Channel-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
-<p align="left">
+<img src="https://telegra.ph/file/cd4d531f55ea2838b81ea.jpg"
+<a href="https://telegram.dog/KGN_OFFICIAL"><img src="https://badgen.net/badge/Name/ZAHID/FF33FF?icon=awesome&labelColor=0080FF"></a><a href="https://telegram.dog/KGN_OFFICIAL">
+<a href="https://telegram.dog/KGN_MOVIES"><img src="https://img.shields.io/badge/Telegram-Link-blue.svg?logo=telegram"></a>
+<a href="https://github.com/KGN-BOTS"><img src="https://badgen.net/badge/Follow%20on%20/GitHub/80FF00?icon=github&labelColor=black"></a>
 </p>
 
 
 ## License
 ```sh
 #!/usr/bin/env python3
-# Copyright (C) @ZauteKm
+# Copyright (C) @KGN_OFFICIAL
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as published by
 # the Free Software Foundation, either version 3 of the License, or
@@ -65,4 +62,4 @@ Libraries used: => Pyrogram => Telegraph
 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
 * [Arun PT](https://github.com/CW4RR10R)
-* [Contributors](https://github.com/ZauteKm/Image-Upload-Bot/graphs/contributors)
+* [Contributors](https://github.com/KGN-BOTS/Image-Upload-Bot/graphs/contributors)
