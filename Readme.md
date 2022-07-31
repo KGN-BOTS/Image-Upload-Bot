@@ -1,5 +1,7 @@
 # Telegraph Image Uploader
 
+<p align="center"><img src="https://telegra.ph/file/b60c50cd4cdc72ead74f2.jpg" width="2000"></a></p>
+
 > A simplest telegram to telegra.ph image uploader bot
 
 <a href="https://telegram.dog/KGN_TELEGRAPH_BOT"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
@@ -34,7 +36,7 @@ Libraries used: => Pyrogram => Telegraph
 
 ## Dev Details 👤:
 <p align="middle">
-<img src="https://telegra.ph/file/cd4d531f55ea2838b81ea.jpg"
+<a href="https://telegram.dog/KGN_OFFICIAL"><p align="center"><img src="https://telegra.ph/file/cd4d531f55ea2838b81ea.jpg" width="200"></a></p>
 <a href="https://telegram.dog/KGN_OFFICIAL"><img src="https://badgen.net/badge/Name/ZAHID/FF33FF?icon=awesome&labelColor=0080FF"></a><a href="https://telegram.dog/KGN_OFFICIAL">
 <a href="https://telegram.dog/KGN_MOVIES"><img src="https://img.shields.io/badge/Telegram-Link-blue.svg?logo=telegram"></a>
 <a href="https://github.com/KGN-BOTS"><img src="https://badgen.net/badge/Follow%20on%20/GitHub/80FF00?icon=github&labelColor=black"></a>
